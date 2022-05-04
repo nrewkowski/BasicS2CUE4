@@ -76,3 +76,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.apk
 *.obb
+
+
+_build/
+
+BasicS2C.zip
